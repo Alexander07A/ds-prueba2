@@ -1,1 +1,17 @@
 Trabajo final
+
+DIAS DE LA SEMANA
+
+lunes
+martes
+miercoles
+jueves
+viernes
+sabado
+domingo
+
+
+estaciones
+verano 
+primavera
+
